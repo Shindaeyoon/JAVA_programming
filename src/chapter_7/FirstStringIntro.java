@@ -8,6 +8,7 @@ public class FirstStringIntro {
 		String str2 = "Birthda";
 		System.out.println(str1 + " " + str2);
 		
+		// 메소드에 문자열을 전달하는 다양한 방법을 보여준다.
 		printString(str1);
 		printString(" ");
 		printString(str2);
